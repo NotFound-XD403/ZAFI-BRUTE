@@ -27,8 +27,8 @@ pip install mechanize
 
 git clone https://github.com/NotFound-XD403/ZAFI-BRUTE
 
-cd SIMPLE
+cd ZAFI-BRUTE
 
 ls
 
-python Nazi.py
+python Run.py
